@@ -13,7 +13,7 @@ int main()
 		printf("%d\n", x[n]);
 	}
 	sum = sum / 10;
-	printf("%d", sum);
+	printf("Average Hight is : %d", sum);
 
 
 }
